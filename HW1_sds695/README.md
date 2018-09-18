@@ -5,3 +5,5 @@ The environment variable for the PUI directory was added in the .bashrc. An alia
 
 Demonstrated using the environment variable and the alias.
 ![Image not loading](env-alias.png "Pic 2")
+
+I have also included my attempt at the extra credit homework.
