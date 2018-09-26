@@ -9,7 +9,7 @@ The current history shows no trace of the file.
 ![Image did not load](commit_after.png)
 
 ## Assignment 2
-The jupyter notebook for assignment 2 where I picked the Citywide Payroll Data was uploaded. This assignment had one part working with the csv data and the second part with the soda api.
+The jupyter notebook for assignment 2 where I picked the Citywide Payroll Data was uploaded. This assignment had one part working with csv data and the second part with json data.
 
 ## Assignment 3
 The python script show_bus_locations.py has been uploaded. This file needs to be run with the arguments MTA Bus Route key and the Bus line you wish to see and it returns the positions of the active buses(eg. python show_bus_locations.py xxxx-xxxx-xxxx-xxxx-xxxx <BUS_LINE>).
