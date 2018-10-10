@@ -36,5 +36,6 @@ for v in vehicle_monitoring_delivery:
 			stop_status=v['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']
 		else:
 			stop_status="N/A"
+		print(v['MonitoredVehicleJourney']['OnwardCalls'])
 		fout.write(str(latitude)+","+str(longitude)+","+str(stop_name)+","+str(stop_status)+"\n")
 fout.close()
