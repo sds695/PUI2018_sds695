@@ -13,13 +13,21 @@ papers for the logistic regression and path analysis.
 |    Path analysis          |    5, women age (X1), place of residence (X2),   religion (X3), socioeconomic status (X4), use of family   planning methods (X5)    |    categorical    |    3,  women education (X6), age at first   marriage (X7) and unwanted births (X8)    |    categorical    |    0        |    Not Applicable    |     Which of the independent variables affected number of    unwanted births?                        |     The independent variables do not significantly affect the    number of unwanted births.                               |     0.05,0.01     |     [Correlates    of Unwanted Births in Bangladesh: A Study through Path Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164007)                                     |
 |    Logistic Regression    |    1, Type of commuter                                                                                                              |    categorical    |    1, number of agreed to statement                                                   |    discrete       |    0        |    Not Applicable    |      “Bicycles May Use Full Lane” signage was the most    comprehensible traffic control device?     |      “Bicycles May Use Full Lane” signage had equal or significantly    less impact on commuters than other signages.     |     0.01          |     [“Bicycles    May Use Full Lane” Signage Communicates U.S. Roadway Rules and Increases    Perception of Safety](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136973)     
 
-### Picture for anova test
+## Picture for anova test
+
+
 ![](anova.PNG)
 
-### Picture for path analysis
+
+## Picture for path analysis
+
+
 ![](path_analysis.PNG)
 
-### Picture for logistic regression
+
+## Picture for logistic regression
+
+
 ![](logistic_regression.PNG)
 
 
