@@ -1,6 +1,6 @@
 ## This the review for Siddhanth Deepak Shetty (sds695)'s plot for HW8 by Tingyu Chang (tc1767).
 
-![Alt text](box_whisker.png)
+![Alt text](https://github.com/sds695/PUI2018_sds695/blob/master/HW8_sds695/box_whisker.png)
 
 ## Clarity
 
